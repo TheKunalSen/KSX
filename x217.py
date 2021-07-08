@@ -1,0 +1,1 @@
+print('all are mf except me')

@@ -1,0 +1,54 @@
+('D:\\assistant(ks)\\build\\assist\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz', 'D:\\assistant(ks)\\build\\assist\\PYZ-00.pyz', 'PYZ'),
+  ('struct', 'd:\\program files\\python\\lib\\struct.pyo', 'PYMODULE'),
+  ('pyimod01_os_path',
+   'd:\\program '
+   'files\\python\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'd:\\program '
+   'files\\python\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'd:\\program '
+   'files\\python\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'd:\\program '
+   'files\\python\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'D:\\program '
+   'files\\Python\\Lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'D:\\program '
+   'files\\Python\\Lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'D:\\program '
+   'files\\Python\\Lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_win32comgenpy',
+   'D:\\program '
+   'files\\Python\\Lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_win32comgenpy.py',
+   'PYSOURCE'),
+  ('pyi_rth_certifi',
+   'D:\\program '
+   'files\\Python\\Lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_certifi.py',
+   'PYSOURCE'),
+  ('assist', 'D:\\assistant(ks)\\assist.py', 'PYSOURCE'),
+  ('assist.exe.manifest',
+   'D:\\assistant(ks)\\build\\assist\\assist.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False,
+ [])
