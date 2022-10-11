@@ -1,4 +1,4 @@
-import pyautogui
+# import pyautogui
 import time
 from selenium import webdriver
 import pyttsx3
@@ -26,6 +26,8 @@ import matplotlib.pyplot as plt
 # import plyer
 # from win10toast import ToastNotifier
 from bs4 import BeautifulSoup
+
+
 
 
 
