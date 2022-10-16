@@ -1,4 +1,4 @@
-# import pyautogui
+import pyautogui
 import time
 from selenium import webdriver
 import pyttsx3
